@@ -1,8 +1,13 @@
 # Sprint 1 - _ to _
 
+<!-- One section per sprint. Fill it in **during** the sprint, not the night before
+the milestone deadline - the commit timestamps on this file are part of the
+evidence that the process was real. -->
+
 ## Sprint goal
 
-...
+<!-- One sentence. If you cannot state the goal in one sentence, the sprint
+has no goal and you are just doing tasks. -->
 
 ## Committed
 
@@ -33,6 +38,9 @@
 |            |            |             |
 
 **One concrete action for next sprint (with an owner):**
+
+<!-- A retro that produces no action item is a complaint session.
+     Exactly one action, one owner, checked at the next retro. -->
 
 ## Attendance
 
